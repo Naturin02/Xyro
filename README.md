@@ -5,10 +5,12 @@ figma web/movil: https://www.figma.com/design/WpqF0VvDls3niuvb1L8BWM/Untitled?no
 
 figma: https://www.figma.com/design/VU5ab3a9l2GUC2Ttc8MUEk/PROYECTO-INTEGRADOR?node-id=0-1&p=f&t=YsHNAvsE6Ci8w1no-0
 
-Integrantes del equipo:
+presentación canva: https://www.canva.com/design/DAGcdtfiJTg/BhjYdDr_63C2sxzutCPFug/edit?utm_content=DAGcdtfiJTg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-Cabrera Arcos Jose Arturo
+##Integrantes del equipo:
 
-Escalante Aguilar Maricarmen
+- Cabrera Arcos Jose Arturo
 
-Sosme
+- Escalante Aguilar Maricarmen
+
+- Sosme
